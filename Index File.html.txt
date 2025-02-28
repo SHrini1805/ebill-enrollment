@@ -36,7 +36,8 @@
     <p>Scan the barcode below to retrieve customer details and enroll in eBilling.</p>
     <img src="customer_qr.png" alt="Scan QR Code">
     
-    <form>
+    <form action="YOUR_GOOGLE_FORM_URL" method="post" target="_blank">
+
         <label for="first_name">First Name:</label>
         <input type="text" id="first_name" name="first_name" required>
         
