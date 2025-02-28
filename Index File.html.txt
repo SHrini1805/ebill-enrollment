@@ -34,7 +34,7 @@
 <body>
     <h1>Go Paperless: Opt-in for eBills!</h1>
     <p>Scan the barcode below to retrieve customer details and enroll in eBilling.</p>
-    <img src="customer_qr.png" alt="Scan QR Code">
+    <img src="./customer_qr.png" alt="Scan QR Code">
     
     <form action="YOUR_GOOGLE_FORM_URL" method="post" target="_blank">
 
